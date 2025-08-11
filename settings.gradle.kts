@@ -16,4 +16,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "NutriSport"
 include(":androidApp")
+include(":navigation")
 include(":shared")
+include(":feature:auth")
